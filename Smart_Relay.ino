@@ -13,7 +13,7 @@
 #define switching_minutes_topic "first/minutes"  // имя топика на который будут приходить минуты включения по времени
 #define shutdown_hours_topic    "second/hours"   // имя топика на который будут приходить часы выключения по времени 
 #define shutdown_minutes_topic  "second/minutes" // имя топика на который будут приходить минуты выключения по времени
-
+#Someting
 #define BUFFER_SIZE 100
 
 const char *ssid_name      = "LDR";         // название вашей WiFi сети
